@@ -1,0 +1,81 @@
+====================================
+The DOS Games Archive Game Info Card
+====================================
+
+Game title		: Wolfenstein 3D
+Developer		: id Software
+Publisher		: Apogee Software
+Country of origin	: USA
+Language		: English
+License			: Shareware
+Version			: 1.4
+Release date		: 1993/01/01
+Original source		: 1wolf14.zip (856 401 bytes)
+Retrieved from		: ftp.3drealms.com/share/
+Additional files	:
++ Windows icon		: wolf3d.ico
++ Windows icon		: wolfswas.ico
+  Retrieved from	: http://legacy.3drealms.com/stuff/apogicon.exe
++ FAQ			: w3dfaq420.txt
+  Retrieved from	: http://legacy.3drealms.com/faq/index.html
++ Source code		: wolfsrc.zip (576 904 bytes)
+  Retrieved from	: ftp.gamers.org/pub/games/wolf3d/official/
+Bonus content		:
++ Apogee game previews	: .\APOGEEPIX\ (17 files, 1 539 489 bytes)
+  Retrieved from	: http://cd.textfiles.com/jcs/jcsma2v14/
+Maintainer		: MrFlibble <mrflibble86@gmail.com>
+
+* Note for DOSBox users *
+
+This software is fully installed and configured to run in the DOSBox emulator.
+You can simply drag and drop the file WOLF3D.BAT over the DOSBox icon to
+start playing. Experienced DOSBox users may choose other methods of startup.
+
+The software was configured and tested to work with the official DOSBox build
+v0.74-3 available from www.dosbox.com. It may or may not work with any other
+third-party DOSBox distributions that are available.
+
+* Source port *
+
+This game can also be played natively (no DOSBox required) on Windows, MacOS,
+Linux and other modern platforms using one of the source ports.
+
+Wolf4SDL (classic look):
+https://wolf3d.net/wolf4sdl/
+
+ECWolf (high resolution and many optional enhancements):
+http://maniacsvault.net/ecwolf/
+
+* Game related websites *
+
+Developer website (access via the Wayback Machine):
+http://www.idsoftware.com/killer/wolfenst.html
+
+Publisher website:
+https://3drealms.com/catalog/wolfenstein-3d_25/
+http://legacy.3drealms.com/wolf3d/index.html
+
+NOTE: Some sites are only avaiable as copies made by the Wayback Machine:
+http://web.archive.org/
+
+* Disclaimer *
+
+This software is provided "as is". No files from the original software package
+provided by the developer/publisher were modified except for the configuration
+files needed to set up sound devices and input methods.
+
+The software was tested to work with the official DOSBox build and was scanned
+by an antivirus/anti-malware tool.
+
+You use this software at your own risk. The DOS Games Archive is not liable
+for any unwanted consequences that may arise from your using this software.
+
+* Download and online play *
+
+This game is available from The DOS Games Archive at:
+https://www.dosgamesarchive.com/download/wolfenstein-3d/
+
+It can be played online at:
+https://www.dosgamesarchive.com/play/wolfenstein-3d/
+
+---end of document---
