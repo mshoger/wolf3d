@@ -3,6 +3,7 @@ ENV USER=root
 ENV PASSWORD=password1
 ENV DEBIAN_FRONTEND=noninteractive 
 ENV DEBCONF_NONINTERACTIVE_SEEN=true
+#Copy line below assumes the wolf3d directory is in the same folder as this Dockerfile
 COPY wolf3d /dos/wolf3d
 RUN apt-get update && \
  echo "tzdata tzdata/Areas select America" > ~/tx.txt && \
